@@ -11,7 +11,11 @@ This repo contains notes on how to setup and work with Raspberry Pi remotely.
 - **Important**: Add an empty file called `ssh` to enable remote ssh connections.
 
 ### Setup SSH
-- On your host
+- On your ssh config set an alias to your Pi address on file `$HOME/.ssh/config`  with this content:
+
+```
+
+``` 
 
 
 
@@ -36,5 +40,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjQ2NDg3NV19
+eyJoaXN0b3J5IjpbLTcwMjM3NzQyXX0=
 -->
