@@ -33,9 +33,9 @@ ssh pi@rpi
 
 ## Once your Pi boot
 
-### Install missing software
+### Install development software
 
-- Install [Node.js](https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/]
+- Install [Node.js](https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/)
 - Install [Berryconda](https://github.com/jjhelmus/berryconda)
 
 
@@ -51,5 +51,6 @@ run `add-extras.sh`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzcyMzk2NywtMTk5NjA1MjE0MV19
+eyJoaXN0b3J5IjpbMTc0NzIwOTI0OCwxNTQ3NzIzOTY3LC0xOT
+k2MDUyMTQxXX0=
 -->
