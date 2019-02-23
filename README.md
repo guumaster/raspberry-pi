@@ -37,6 +37,7 @@ ssh pi@rpi
 
 - Install [Node.js](https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/)
 - Install [Berryconda](https://github.com/jjhelmus/berryconda)
+- Install [Golang 1.11](http://www.elliotmaincourt.com/blog/running-go-1.11-on-raspberry-pi-3-with-raspbian/)
 
 ### Install extra software
 
@@ -56,6 +57,6 @@ $> install-extras.sh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc1MzIzODAsMTU0NzcyMzk2NywtMT
-k5NjA1MjE0MV19
+eyJoaXN0b3J5IjpbLTIzMzU2ODA4MSwtMTczNzUzMjM4MCwxNT
+Q3NzIzOTY3LC0xOTk2MDUyMTQxXX0=
 -->
