@@ -39,7 +39,14 @@ ssh pi@rpi
 - Install [Berryconda](https://github.com/jjhelmus/berryconda)
 
 ### Install extra software
-run `add-extras.sh`
+
+To add common used software run this cmd:
+
+```
+$> install
+```
+
+run `install-extras.sh`
 
 
 ## GPIO Info
@@ -51,6 +58,6 @@ run `add-extras.sh`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTkxODMxMSwxNTQ3NzIzOTY3LC0xOT
-k2MDUyMTQxXX0=
+eyJoaXN0b3J5IjpbLTMxMTQ5MDE0LDE1NDc3MjM5NjcsLTE5OT
+YwNTIxNDFdfQ==
 -->
