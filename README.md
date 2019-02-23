@@ -4,7 +4,8 @@ This repo contains notes on how to setup and work with Raspberry Pi remotely.
 
 ## Setup SD Card
 
-- Download an image from  
+- Download an image from [RaspberryPi.org](https://www.raspberrypi.org/downloads/)
+-  Download [Etcher app](https://www.balena.io/etcher/) and flash it into an SD.
 
 ## Install missing software
 
@@ -25,5 +26,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODU0MTE3OV19
+eyJoaXN0b3J5IjpbMTkzMjk2OTgyM119
 -->
