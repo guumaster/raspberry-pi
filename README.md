@@ -14,9 +14,15 @@ This repo contains notes on how to setup and work with Raspberry Pi remotely.
 - On your ssh config set an alias to your Pi address on file `$HOME/.ssh/config`  with this content:
 
 ```
-
+Host rpi
+    HostName <YOUR_RASPBERRY_IP>
 ``` 
+- Then copy your ssh credentials to the Pi:
 
+```
+
+```
+**NOTE**: If you don't have a
 
 
 ## Once your Pi boots
@@ -40,5 +46,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjM3NzQyXX0=
+eyJoaXN0b3J5IjpbMzczODg3NzkyXX0=
 -->
