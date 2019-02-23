@@ -22,7 +22,7 @@ Host rpi
 ```
 
 ```
-**NOTE**: If you don't have a
+**NOTE**: If you don't have ssh keys already generated, check this guide 
 
 
 ## Once your Pi boots
@@ -46,5 +46,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczODg3NzkyXX0=
+eyJoaXN0b3J5IjpbLTE5MzEyMjIzOTBdfQ==
 -->
