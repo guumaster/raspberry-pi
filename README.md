@@ -38,7 +38,7 @@ ssh pi@rpi
 - Install [Node.js](https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/)
 - Install [Berryconda](https://github.com/jjhelmus/berryconda)
 
-
+### Install extra software
 run `add-extras.sh`
 
 
@@ -51,6 +51,6 @@ run `add-extras.sh`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzIwOTI0OCwxNTQ3NzIzOTY3LC0xOT
+eyJoaXN0b3J5IjpbLTkxNTkxODMxMSwxNTQ3NzIzOTY3LC0xOT
 k2MDUyMTQxXX0=
 -->
