@@ -2,12 +2,20 @@
 
 This repo contains notes on how to setup and work with Raspberry Pi remotely.
 
-## Setup SD Card
+## Prerequisites
+
+### Setup SD Card
 
 - Download an image from [RaspberryPi.org](https://www.raspberrypi.org/downloads/)
--  Download [Etcher app](https://www.balena.io/etcher/) and flash it into an SD.
+-  Download [Etcher app](https://www.balena.io/etcher/) and flash it into an SD
 
-## Install missing software
+### Change your 
+
+
+
+## Once your Pi boots
+
+### Install missing software
 
 - Install [Node.js](https://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/]
 - Install [Berryconda](https://github.com/jjhelmus/berryconda)
@@ -26,5 +34,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjk2OTgyM119
+eyJoaXN0b3J5IjpbLTUyNjg5MzQ2MF19
 -->
