@@ -22,6 +22,11 @@ Host rpi
 ```
 ssh-copy-id pi@rpi
 ```
+Now you can log into your Pi without a password prompt when you ssh into it:
+```
+ssh pi@rpi
+```
+
 
 **NOTE**: If you don't have ssh keys already generated, check this guide [Generating ssh keys](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
@@ -47,5 +52,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODk3NDM3NF19
+eyJoaXN0b3J5IjpbLTE5OTYwNTIxNDFdfQ==
 -->
