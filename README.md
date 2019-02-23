@@ -8,8 +8,10 @@ This repo contains notes on how to setup and work with Raspberry Pi remotely.
 
 - Download an image from [RaspberryPi.org](https://www.raspberrypi.org/downloads/)
 -  Download [Etcher app](https://www.balena.io/etcher/) and flash it into an SD
+- **Important**: Add an empty file called `ssh` to enable remote ssh connections.
 
-### Change your 
+### Setup SSH
+- On your host
 
 
 
@@ -34,5 +36,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjg5MzQ2MF19
+eyJoaXN0b3J5IjpbLTQ0NjQ2NDg3NV19
 -->
