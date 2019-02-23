@@ -42,15 +42,14 @@ ssh pi@rpi
 run `add-extras.sh`
 
 
-## Raspberry Pi 2 Model B 1.1
+## GPIO Info
 
-
-Pinout image:
+### Pinout for Raspberry Pi 2 Model B 1.1
 
 
 ![https://raspberry-projects.com/pi/wp-content/uploads/2015/03/rpi2_model_b_plus_io_pinouts.jpg](https://raspberry-projects.com/pi/wp-content/uploads/2015/03/rpi2_model_b_plus_io_pinouts.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYwNTIxNDFdfQ==
+eyJoaXN0b3J5IjpbMTU0NzcyMzk2NywtMTk5NjA1MjE0MV19
 -->
