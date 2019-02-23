@@ -43,10 +43,8 @@ ssh pi@rpi
 To add common used software run this cmd:
 
 ```
-$> install
+$> install-extras.sh
 ```
-
-run `install-extras.sh`
 
 
 ## GPIO Info
@@ -58,6 +56,6 @@ run `install-extras.sh`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTQ5MDE0LDE1NDc3MjM5NjcsLTE5OT
-YwNTIxNDFdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzc1MzIzODAsMTU0NzcyMzk2NywtMT
+k5NjA1MjE0MV19
 -->
