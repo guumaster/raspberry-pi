@@ -26,7 +26,7 @@ ssh-copy-id pi@rpi
 **NOTE**: If you don't have ssh keys already generated, check this guide [Generating ssh keys](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
-## Once your Pi boots
+## Once your Pi boot
 
 ### Install missing software
 
@@ -47,5 +47,5 @@ Pinout image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjU4ODI2OV19
+eyJoaXN0b3J5IjpbMTI3ODk3NDM3NF19
 -->
