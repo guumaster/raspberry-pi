@@ -53,6 +53,7 @@ $> install-extras.sh
 ### Pinout for Raspberry Pi 2 Model B 1.1
 
 
+![images/images/rpi-2-model-b-pinouts.png](images/images/rpi-2-model-b-pinouts.png)
 ![https://raspberry-projects.com/pi/wp-content/uploads/2015/03/rpi2_model_b_plus_io_pinouts.jpg](https://raspberry-projects.com/pi/wp-content/uploads/2015/03/rpi2_model_b_plus_io_pinouts.jpg)
 
 
